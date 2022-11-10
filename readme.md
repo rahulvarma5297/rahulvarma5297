@@ -7,7 +7,7 @@ I am currently pursuing my B Tech degree in Compute Science Engineering from Ind
 * ✉️  You can contact me at [rahulvarma5297@gmail.com](mailto:rahulvarma5297@gmail.com)
 * 🧠  I'm learning React.js
 
-<img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/> 
+<img alt="GIF" src="https://github.com/rahulvarma5297/rahulvarma5297/blob/main/hadder.gif?raw=true" width="500"/> 
 
 ### Skills
 
