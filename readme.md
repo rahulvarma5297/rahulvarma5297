@@ -7,6 +7,8 @@ I am currently pursuing my B Tech degree in Compute Science Engineering from Ind
 * ✉️  You can contact me at [rahulvarma5297@gmail.com](mailto:rahulvarma5297@gmail.com)
 * 🧠  MERN stack developer
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvarma5297&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvarma5297" /> </p>
+
 <img alt="GIF" src="https://github.com/rahulvarma5297/rahulvarma5297/blob/main/hadder.gif?raw=true" width="500"/> 
 
 ### Skills
