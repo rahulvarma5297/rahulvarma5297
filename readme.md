@@ -1,13 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Varma
 ===================================================================================================================================
 
-I am currently pursuing my B Tech degree in Compute Science Engineering from Indian Institute of Information Technology,Sricity
-
-* 🌍  I'm based in Vishakapatnam
-* ✉️  You can contact me at [rahulvarma5297@gmail.com](mailto:rahulvarma5297@gmail.com)
-* 🧠  MERN stack developer
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulvarma5297&label=Profile%20views&color=0e75b6&style=flat" alt="rahulvarma5297" /> </p>
+
+**I am currently pursuing my B Tech degree in Compute Science Engineering from Indian Institute of Information Technology, Sricity**
+
+* 🌍  I'm based in **Vishakapatnam**
+* ✉️  You can contact me at [rahulvarma5297@gmail.com](mailto:rahulvarma5297@gmail.com)
+* 🧠 I am an **open-source enthusiast** and an aspiring **mern stack developer** along with other skills like C, C++, Java, Javascript.
+* 🌱 I’m currently focusing on **DSA.**
+* 👯 I’m looking forward to **be a part of various interesting projects.**
+* 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
 <img alt="GIF" src="https://github.com/rahulvarma5297/rahulvarma5297/blob/main/hadder.gif?raw=true" width="500"/> 
 
@@ -30,6 +33,7 @@ I am currently pursuing my B Tech degree in Compute Science Engineering from Ind
 
 <p align="left"> <a href="https://www.github.com/rahulvarma5297" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rahul__varma_5297/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rahul-varma-329a3122a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <hr/>
+
 ### Badges
 
 <b>My GitHub Stats</b>
